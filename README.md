@@ -1,2 +1,2 @@
-# Estimating Prevalence with High Precision
+# Estimating prevalence with precision and accuracy
 
